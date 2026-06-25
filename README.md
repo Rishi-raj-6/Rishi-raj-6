@@ -1,8 +1,6 @@
 # Hi there, I'm Rishi Raj 👋
 
-## 🚀 About Me
-
-Engineering student with a strong interest in **Competitive Programming, Data Structures & Algorithms, Embedded Systems, IoT, and Robotics**.
+An Engineering student with a strong interest in **Competitive Programming, Data Structures & Algorithms, Embedded Systems, IoT, and Robotics**.
 I enjoy building systems that connect **software with hardware**, and I’m currently focused on improving my **problem-solving and coding skills** while continuing to explore real-world engineering projects.
 
 * 🔭 Currently working on **Competitive Programming and DSA**
